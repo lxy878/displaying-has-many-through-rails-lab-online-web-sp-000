@@ -13,6 +13,6 @@ appointment
   show
     date, time, patients, and doctor
 
-bin/rails g model Appointment appointment_datetime:date --no-test-framework --ship-routes
+bin/rails g controller appointment --no-test-framework --ship-routes
 
 testing
