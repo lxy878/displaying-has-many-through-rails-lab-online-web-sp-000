@@ -14,3 +14,6 @@ appointment
     date, time, patients, and doctor
 
 bin/rails g model Appointment appointment_datetime:date --no-test-framework --ship-routes
+
+testing
+  datetime in model -> date in table
