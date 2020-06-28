@@ -16,4 +16,3 @@ appointment
 bin/rails g model Appointment appointment_datetime:date --no-test-framework --ship-routes
 
 testing
-  datetime in model -> datetime in table
