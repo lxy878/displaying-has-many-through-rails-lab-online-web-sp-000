@@ -10,3 +10,5 @@ patient
     displays patients' show and total number of appointments they have
 appointment
   has column 'appointment_datetime' as "January 12, 2016 at 3:00"
+  show
+    date, time, patients, and doctor
