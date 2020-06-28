@@ -4,5 +4,7 @@ doctor
     name, department, and appointments with date, time, and patient name(link)
 patient
   has many doctors
+  show
+    lists date and time of appointments to link doctor's show
 appointment
   has column 'appointment_datetime' as "January 12, 2016 at 3:00"
