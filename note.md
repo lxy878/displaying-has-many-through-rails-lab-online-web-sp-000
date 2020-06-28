@@ -13,4 +13,4 @@ appointment
   show
     date, time, patients, and doctor
 
-bin/rails g model Doctor name:string department:string --no-test-framework --ship-routes
+bin/rails g model Appointment appointment_datetime:date --no-test-framework --ship-routes
