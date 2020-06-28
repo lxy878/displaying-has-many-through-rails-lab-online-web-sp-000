@@ -13,6 +13,6 @@ appointment
   show
     date, time, patients, and doctor
 
-bin/rails g controller Patient --no-test-framework --ship-routes
+bin/rails g controller Patients --no-test-framework --ship-routes
 
 testing
